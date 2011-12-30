@@ -1,0 +1,305 @@
+Card Game,Spies/Secret Agents  
+Political  
+Ancient,Card Game,Civilization, 
+Ancient,Card Game,Civilization,Expansion for Base-game 
+Action / Dexterity  
+Animals,Nautical  
+Economic  
+Economic,Farming  
+Economic,Expansion for Base-game,Farming, 
+Aviation / Flight,Economic  
+Action / Dexterity,Animals,Children's Game, 
+Party Game,Word  
+Card Game,Humor,Party Game,Word 
+Bluffing,Deduction,Negotiation,Party Game 
+Adventure,Fighting,Horror,Novel-based 
+Abstract Strategy,Animals  
+Fantasy,Medieval  
+Card Game,Fantasy  
+Economic,Farming  
+Ancient,Card Game,City Building, 
+Bluffing,Party Game,Word, 
+Real-time,Word  
+American West,Bluffing,Card Game,Fighting 
+American West,Bluffing,Card Game,Deduction 
+American West,Bluffing,Card Game,Deduction 
+American West,Bluffing,Card Game,Deduction 
+Fantasy  
+Ancient,Card Game,Deduction, 
+Children's Game,Deduction,Nautical, 
+ 
+Bluffing,Deduction,Movies / TV / Radio theme,Negotiation 
+Card Game,Medieval,Religious, 
+Dice,Real-time,Word, 
+Action / Dexterity,Racing,Sports, 
+Action / Dexterity,Children's Game,Pirates, 
+Abstract Strategy,Territory Building  
+Abstract Strategy,Territory Building  
+Card Game,Farming,Negotiation, 
+Card Game  
+Action / Dexterity,Children's Game,Humor,Party Game 
+City Building,Medieval  
+City Building,Medieval  
+Prehistoric  
+City Building,Expansion for Base-game,Medieval, 
+City Building,Expansion for Base-game,Medieval, 
+City Building,Medieval  
+Dice  
+Children's Game,Medieval  
+City Building,Economic,Expansion for Base-game,Medieval 
+Card Game,Humor,Party Game,Print & Play 
+Pirates,Racing  
+Bluffing,Fighting,Humor,Mafia 
+Bluffing,Fighting,Humor,Mafia 
+City Building,Economic,Medieval, 
+Card Game,City Building,Economic, 
+Animals,Children's Game,Memory, 
+Bluffing,Card Game,City Building,Fantasy 
+Ancient,City Building  
+Animals,Children's Game,Dice, 
+Bluffing,Deduction,Murder/Mystery, 
+Abstract Strategy,Children's Game  
+Party Game,Puzzle,Trivia,Word 
+Children's Game,Dice,Party Game, 
+Party Game  
+Card Game,Fantasy,Horror, 
+Action / Dexterity,Children's Game,Dice,Humor 
+American West,Dice  
+Party Game,Word  
+Bluffing,Card Game,Humor,Party Game 
+Bluffing,Card Game,Expansion for Base-game,Humor 
+Bluffing,Card Game,Party Game, 
+Card Game,Medieval  
+Card Game,Medieval  
+Card Game,Expansion for Base-game,Medieval, 
+Card Game,Expansion for Base-game,Medieval, 
+Card Game,Medieval  
+Card Game,Expansion for Base-game,Medieval, 
+Card Game,Expansion for Base-game,Medieval,Nautical 
+Economic,Territory Building  
+Card Game,Fantasy  
+Abstract Strategy,Action / Dexterity  
+Card Game,Real-time  
+Abstract Strategy  
+Ancient  
+Adventure,Card Game,Dice,Fighting 
+Action / Dexterity,Animals,Racing, 
+Abstract Strategy,Puzzle  
+Card Game  
+Card Game,Economic  
+Adventure  
+Animals,Card Game  
+Real-time,Science Fiction,Space Exploration,Transportation 
+Children's Game,Economic  
+ 
+Bluffing,Deduction,Transportation, 
+Humor,Party Game  
+Economic,Farming  
+Card Game  
+Card Game,Expansion for Base-game,Horror,Humor 
+Card Game,Expansion for Base-game,Humor, 
+Card Game,Expansion for Base-game,Fantasy,Horror 
+Bluffing,Deduction  
+Deduction,Electronic,Memory, 
+Party Game  
+Card Game,Humor  
+Animals,Card Game,Educational,Environmental 
+Action / Dexterity,Card Game,Children's Game,Party Game 
+Card Game  
+Abstract Strategy,Animals  
+Abstract Strategy,Animals  
+Card Game  
+Abstract Strategy,Animals  
+Abstract Strategy,Animals  
+Abstract Strategy,Animals,Expansion for Base-game, 
+Abstract Strategy,Animals,Expansion for Base-game, 
+Card Game,Party Game,Word, 
+Animals,Bluffing  
+Humor,Party Game  
+Bluffing,Humor,Party Game, 
+Adventure,Bluffing,Exploration, 
+Abstract Strategy  
+Abstract Strategy  
+Bluffing,Negotiation,Renaissance, 
+Card Game  
+Nautical,Pirates,Racing, 
+Card Game,Economic  
+Action / Dexterity,Party Game  
+Action / Dexterity,Card Game,Party Game, 
+Abstract Strategy,Card Game,Mythology, 
+Bluffing,Card Game,Party Game, 
+Abstract Strategy,Electronic  
+Murder/Mystery  
+Card Game,Humor,Negotiation, 
+Card Game,Dice,Fighting,Humor 
+Dice,Movies / TV / Radio theme,Science Fiction, 
+Medieval,Territory Building  
+Trivia  
+Fighting,Horror,Miniatures,Zombies 
+Dice,Novel-based  
+Abstract Strategy,Memory  
+Adventure,Fantasy,Novel-based,Trivia 
+Card Game  
+Adventure,Ancient,Exploration, 
+Card Game,Political  
+Party Game  
+Aviation / Flight,Dice  
+Bluffing,Party Game  
+Arabian  
+Abstract Strategy,Deduction  
+Economic  
+City Building  
+Action / Dexterity,Children's Game,Fighting, 
+Card Game,Racing  
+Economic,Negotiation  
+Card Game,Economic  
+Economic,Negotiation  
+Card Game,Movies / TV / Radio theme  
+Animals,Card Game,Humor, 
+Animals,Card Game,Humor, 
+Deduction,Murder/Mystery  
+Deduction,Murder/Mystery  
+Deduction,Murder/Mystery  
+Card Game,Fantasy,Fighting,Humor 
+Card Game,Fighting,Humor,Pirates 
+Ancient,Card Game,Fighting,Humor 
+Deduction,Murder/Mystery  
+Exploration,Nautical  
+Ancient,Civilization,Mythology, 
+Action / Dexterity,Children's Game,Medical, 
+Action / Dexterity,Puzzle,Real-time, 
+Medical  
+Expansion for Base-game,Medical,Science Fiction, 
+Adventure,Exploration,Party Game,Science Fiction 
+Economic,Trains,Transportation, 
+Action / Dexterity,Humor,Mature / Adult,Party Game 
+Card Game,Comic Book / Strip  
+Bluffing,Dice,Movies / TV / Radio theme,Party Game 
+Abstract Strategy  
+ 
+Real-time,Word  
+Party Game  
+Abstract Strategy,Memory,Party Game,Puzzle 
+Card Game,Economic,Farming,Party Game 
+Card Game,Economic,Farming,Party Game 
+Economic,Industry / Manufacturing  
+City Building,Renaissance  
+Word  
+Bluffing,Card Game  
+City Building,Economic,Farming, 
+Card Game,Fantasy,Video Game Theme, 
+Abstract Strategy  
+Dice,Fantasy  
+Dice,Expansion for Base-game,Fantasy, 
+Abstract Strategy  
+City Building  
+Action / Dexterity,Humor,Party Game,Trivia 
+Abstract Strategy,Maze  
+Abstract Strategy  
+Ancient,Mythology  
+Card Game,Civilization,Economic,Science Fiction 
+Card Game,Civilization,Economic,Expansion for Base-game 
+Card Game,Civilization,Economic,Expansion for Base-game 
+ 
+Action / Dexterity,Children's Game  
+Card Game,Fantasy,Humor,Medieval 
+Card Game,Horror,Video Game Theme,Zombies 
+Bluffing,Card Game,Deduction,Negotiation 
+Territory Building,Wargame  
+Card Game,Territory Building  
+Action / Dexterity,Humor,Memory,Party Game 
+Ancient,City Building,Civilization,Dice 
+Card Game,Game System  
+Card Game,Fantasy  
+Bluffing,Card Game,Exploration, 
+Bluffing,Card Game,Expansion for Base-game,Exploration 
+Action / Dexterity,Card Game,Humor, 
+Arabian,Economic,Transportation, 
+Humor,Party Game  
+Humor,Party Game  
+Party Game,Word  
+Word  
+Card Game,Puzzle,Real-time, 
+City Building,Civilization,Negotiation, 
+City Building,Civilization,Expansion for Base-game,Negotiation 
+City Building,Civilization,Expansion for Base-game,Negotiation 
+City Building,Civilization,Expansion for Base-game,Medieval 
+City Building,Civilization,Expansion for Base-game,Medieval 
+Civilization,Expansion for Base-game,Exploration,Nautical 
+Civilization,Expansion for Base-game,Exploration,Nautical 
+Civilization,Expansion for Base-game,Negotiation, 
+Civilization,Expansion for Base-game,Negotiation, 
+Adventure,Deduction,Fantasy,Medieval 
+Adventure,Deduction,Expansion for Base-game,Medieval 
+Card Game  
+Children's Game,Memory  
+Bluffing,Card Game  
+Card Game,Deduction  
+Civilization,Fantasy,Territory Building, 
+Civilization,Fantasy,Territory Building, 
+Civilization,Expansion for Base-game,Fantasy,Territory Building 
+Civilization,Expansion for Base-game,Fantasy,Territory Building 
+Civilization,Expansion for Base-game,Fantasy,Territory Building 
+Civilization,Expansion for Base-game,Fantasy,Territory Building 
+Humor,Party Game,Trivia, 
+Bluffing,Card Game,Spies/Secret Agents, 
+Ancient,Card Game  
+Children's Game,Racing  
+Adventure,Card Game,Exploration,Fantasy 
+Adventure,Movies / TV / Radio theme,Science Fiction, 
+Trains,Transportation  
+Prehistoric  
+Abstract Strategy,Bluffing,Deduction,Fighting 
+Arabian,Bluffing,Card Game, 
+Card Game,Fantasy,Fighting, 
+Action / Dexterity  
+Adventure,Nautical  
+Expansion for Base-game  
+Party Game,Word  
+Humor,Party Game  
+Card Game,Civilization  
+Abstract Strategy,Arabian  
+Card Game,Fantasy  
+Trains,Transportation,Travel, 
+Expansion for Base-game,Trains,Transportation,Travel 
+Expansion for Base-game,Trains,Transportation,Travel 
+Expansion for Base-game  
+Trains,Transportation,Travel, 
+Trains,Transportation,Travel, 
+Trains,Transportation,Travel, 
+Ancient,Civilization,Territory Building, 
+Adventure,Exploration  
+Adventure,Exploration  
+Humor,Party Game  
+Humor,Movies / TV / Radio theme,Party Game, 
+Adventure,Exploration  
+Bluffing,Deduction,Spies/Secret Agents, 
+Party Game,Word  
+Trains,Transportation  
+Trains,Transportation  
+Dice,Medieval  
+Party Game  
+Modern Warfare,Political,Wargame, 
+Abstract Strategy  
+Puzzle,Real-time  
+Abstract Strategy  
+Trivia  
+Nautical,Renaissance  
+Comic Book / Strip,Horror,Zombies, 
+Action / Dexterity  
+  
+Abstract Strategy,Animals,Bluffing,Racing 
+Card Game,Party Game  
+Aviation / Flight,Card Game,Wargame,World War I 
+Children's Game,Educational,Party Game,Trivia 
+Party Game,Trivia  
+Card Game  
+Party Game,Word  
+Children's Game,Educational,Word, 
+Dice  
+Abstract Strategy  
+Abstract Strategy  
+Real-time,Word  
+Card Game,Zombies  
+Exploration,Fighting,Horror,Miniatures 
+Animals  

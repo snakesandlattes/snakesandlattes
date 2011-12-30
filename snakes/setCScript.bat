@@ -1,0 +1,2 @@
+cscript //H:cscript
+pause

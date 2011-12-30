@@ -1,0 +1,305 @@
+Hand Management  
+Area Control / Area Influence,Campaign / Battle Card Driven,Hand Management, 
+Card Drafting,Set Collection,Simultaneous Action Selection,Variable Player Powers 
+Card Drafting,Set Collection,Simultaneous Action Selection,Variable Player Powers 
+Dice Rolling,Set Collection  
+Area Movement,Dice Rolling  
+Commodity Speculation,Hand Management,Stock Holding,Tile Placement 
+Worker Placement  
+Worker Placement  
+Route/Network Building,Stock Holding  
+Dice Rolling  
+  
+Hand Management,Simultaneous Action Selection  
+Partnerships,Role Playing,Variable Player Powers, 
+Co-operative Play,Dice Rolling,Hand Management,Point to Point Movement 
+Tile Placement  
+Hand Management,Pattern Building,Worker Placement, 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting  
+Action Point Allowance System,Set Collection  
+Paper-and-Pencil,Voting  
+Chit-Pull System,Tile Placement  
+Hand Management,Variable Player Powers  
+Hand Management,Partnerships,Variable Player Powers, 
+Hand Management,Partnerships,Variable Player Powers, 
+Hand Management,Partnerships,Variable Player Powers, 
+Tile Placement  
+Hand Management,Set Collection  
+Secret Unit Deployment  
+ 
+Card Drafting,Dice Rolling,Hand Management,Partnerships 
+Auction/Bidding,Card Drafting,Hand Management,Set Collection 
+Pattern Recognition  
+  
+Dice Rolling  
+Area Enclosure,Hand Management,Tile Placement, 
+Area Control / Area Influence,Area Enclosure,Hand Management,Tile Placement 
+Hand Management,Set Collection,Trading, 
+Stock Holding  
+Acting,Co-operative Play,Line Drawing,Paper-and-Pencil 
+Area Control / Area Influence,Tile Placement  
+Area Control / Area Influence,Tile Placement  
+Area Control / Area Influence,Tile Placement  
+Area Control / Area Influence,Tile Placement  
+Area Control / Area Influence,Tile Placement  
+Area Control / Area Influence,Tile Placement  
+Dice Rolling  
+Tile Placement  
+Area Control / Area Influence,Set Collection,Tile Placement, 
+Hand Management,Simultaneous Action Selection  
+Hand Management,Modular Board  
+Role Playing,Simultaneous Action Selection,Variable Player Powers, 
+Acting,Simultaneous Action Selection,Variable Player Powers, 
+Worker Placement  
+Hand Management,Worker Placement  
+Memory  
+Card Drafting,Variable Phase Order,Variable Player Powers, 
+Area Enclosure,Auction/Bidding,Card Drafting,Hand Management 
+Roll and Move,Set Collection  
+Hand Management,Paper-and-Pencil,Roll and Move, 
+Pattern Building  
+Acting,Line Drawing,Paper-and-Pencil,Partnerships 
+Dice Rolling,Line Drawing,Voting, 
+  
+Hand Management,Storytelling  
+Dice Rolling  
+Dice Rolling,Set Collection,Simultaneous Action Selection,Variable Phase Order 
+  
+Simultaneous Action Selection,Storytelling,Voting, 
+Simultaneous Action Selection,Storytelling,Voting, 
+Partnerships,Simultaneous Action Selection,Storytelling,Voting 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting,Deck / Pool Building,Hand Management, 
+Modular Board,Worker Placement  
+Hand Management  
+  
+  
+  
+Variable Phase Order,Worker Placement  
+Co-operative Play,Dice Rolling,Modular Board,Variable Player Powers 
+Modular Board  
+Pattern Building  
+Hand Management,Set Collection  
+Auction/Bidding,Simultaneous Action Selection  
+Action Point Allowance System,Co-operative Play,Modular Board,Set Collection 
+Hand Management,Partnerships,Trick-taking, 
+Dice Rolling,Tile Placement  
+Roll and Move,Simulation  
+ 
+Hand Management,Partnerships  
+Simultaneous Action Selection,Voting  
+Tile Placement,Time Track,Trading, 
+Hand Management,Storytelling  
+Role Playing,Storytelling  
+Storytelling  
+Role Playing,Storytelling  
+  
+Memory  
+Acting,Partnerships,Role Playing,Roll and Move 
+Hand Management  
+Hand Management,Set Collection  
+Simultaneous Action Selection  
+Set Collection,Tile Placement  
+Area Enclosure,Modular Board  
+Area Enclosure,Modular Board  
+Auction/Bidding  
+Tile Placement  
+Tile Placement  
+Tile Placement  
+Tile Placement  
+Acting,Co-operative Play,Hand Management,Paper-and-Pencil 
+Area Control / Area Influence,Modular Board,Simultaneous Action Selection, 
+Line Drawing  
+Roll and Move,Simultaneous Action Selection,Voting, 
+Press Your Luck,Simultaneous Action Selection  
+Hand Management,Pattern Building,Tile Placement, 
+Hand Management,Pattern Building,Tile Placement, 
+  
+Hand Management,Set Collection,Trading, 
+Dice Rolling,Simultaneous Action Selection  
+Action Point Allowance System,Hand Management,Set Collection, 
+  
+Pattern Recognition  
+Area Control / Area Influence,Hand Management,Route/Network Building, 
+Set Collection  
+  
+Hand Management,Point to Point Movement  
+Dice Rolling,Hand Management,Trading, 
+Dice Rolling,Hand Management,Modular Board, 
+Card Drafting,Dice Rolling  
+Modular Board,Route/Network Building  
+  
+Dice Rolling,Hand Management,Modular Board,Partnerships 
+Betting/Wagering,Dice Rolling  
+Memory,Pattern Building,Tile Placement, 
+  
+Card Drafting,Hand Management,Set Collection, 
+Hand Management,Set Collection  
+Area Control / Area Influence,Hand Management,Modular Board, 
+Line Drawing  
+Dice Rolling  
+Voting  
+Roll and Move,Tile Placement  
+  
+Pick-up and Deliver,Set Collection  
+Auction/Bidding  
+  
+Hand Management,Partnerships  
+Auction/Bidding,Dice Rolling,Roll and Move,Set Collection 
+Hand Management,Set Collection  
+Auction/Bidding,Roll and Move,Set Collection,Trading 
+Hand Management,Set Collection,Singing, 
+Hand Management  
+Hand Management  
+Variable Player Powers  
+Variable Player Powers  
+Modular Board,Variable Player Powers  
+Dice Rolling,Hand Management,Variable Player Powers, 
+Dice Rolling,Trading,Variable Player Powers, 
+Dice Rolling,Trading,Variable Player Powers, 
+Trading,Variable Player Powers  
+Hand Management,Pick-up and Deliver,Set Collection,Simultaneous Action Selection 
+Area Control / Area Influence,Time Track  
+  
+Simultaneous Action Selection  
+Action Point Allowance System,Co-operative Play,Hand Management,Point to Point Movement 
+Action Point Allowance System,Co-operative Play,Hand Management,Partnerships 
+Action Point Allowance System,Area Movement,Co-operative Play,Modular Board 
+Hex-and-Counter,Route/Network Building,Set Collection,Stock Holding 
+Acting,Co-operative Play,Dice Rolling,Role Playing 
+Card Drafting,Deck / Pool Building,Hand Management,Variable Player Powers 
+Betting/Wagering,Dice Rolling  
+  
+ 
+  
+Line Drawing,Partnerships,Roll and Move, 
+Auction/Bidding,Memory,Modular Board, 
+Set Collection,Trading  
+Set Collection,Trading  
+Auction/Bidding,Route/Network Building  
+Auction/Bidding  
+  
+  
+Variable Phase Order  
+Card Drafting,Deck / Pool Building,Hand Management,Variable Player Powers 
+  
+Deck / Pool Building,Dice Rolling  
+Deck / Pool Building,Dice Rolling  
+Pattern Building  
+Area Control / Area Influence,Modular Board,Worker Placement, 
+Acting,Paper-and-Pencil,Singing,Storytelling 
+  
+Pattern Building,Pattern Recognition,Tile Placement, 
+Auction/Bidding,Press Your Luck,Set Collection, 
+Hand Management,Simultaneous Action Selection  
+Hand Management,Simultaneous Action Selection  
+Hand Management,Simultaneous Action Selection  
+ 
+Dice Rolling  
+Betting/Wagering,Variable Player Powers  
+Card Drafting,Deck / Pool Building,Variable Player Powers, 
+Partnerships,Simultaneous Action Selection,Voting, 
+Area Control / Area Influence,Area Movement,Dice Rolling,Set Collection 
+Card Drafting,Dice Rolling,Hand Management,Trading 
+Card Drafting,Memory,Pattern Recognition, 
+Dice Rolling,Paper-and-Pencil,Press Your Luck, 
+Auction/Bidding,Card Drafting,Hand Management,Partnerships 
+Co-operative Play,Deck / Pool Building,Dice Rolling,Hand Management 
+Hand Management,Modular Board,Partnerships,Route/Network Building 
+Hand Management,Partnerships,Route/Network Building,Tile Placement 
+Pattern Recognition  
+Route/Network Building,Stock Holding  
+Betting/Wagering,Paper-and-Pencil  
+Betting/Wagering  
+  
+Hand Management,Tile Placement  
+Pattern Recognition,Set Collection  
+Dice Rolling,Hand Management,Modular Board,Route/Network Building 
+Dice Rolling,Modular Board,Route/Network Building,Trading 
+Dice Rolling,Modular Board,Route/Network Building,Trading 
+Dice Rolling,Modular Board,Route/Network Building,Trading 
+Dice Rolling,Modular Board,Route/Network Building,Trading 
+Dice Rolling,Modular Board,Route/Network Building,Trading 
+Dice Rolling,Modular Board,Route/Network Building,Trading 
+Auction/Bidding,Dice Rolling,Modular Board,Route/Network Building 
+Dice Rolling,Modular Board,Route/Network Building,Trading 
+Co-operative Play,Hand Management,Partnerships,Variable Player Powers 
+Co-operative Play,Hand Management,Variable Player Powers, 
+Set Collection  
+Memory,Pattern Recognition  
+Betting/Wagering,Hand Management  
+Hand Management  
+Area Control / Area Influence,Area Movement,Dice Rolling,Variable Player Powers 
+Area Control / Area Influence,Area Movement,Dice Rolling,Variable Player Powers 
+Area Control / Area Influence,Area Movement,Dice Rolling,Variable Player Powers 
+Area Control / Area Influence,Area Movement,Dice Rolling,Variable Player Powers 
+Area Control / Area Influence,Area Movement,Dice Rolling,Variable Player Powers 
+Area Control / Area Influence,Area Movement,Auction/Bidding,Dice Rolling 
+Dice Rolling,Roll and Move  
+Set Collection,Simultaneous Action Selection  
+Card Drafting,Hand Management,Set Collection, 
+Roll and Move  
+Card Drafting,Co-operative Play,Deck / Pool Building,Partnerships 
+Co-operative Play,Variable Player Powers  
+Auction/Bidding,Pick-up and Deliver,Route/Network Building,Tile Placement 
+Dice Rolling,Set Collection,Worker Placement, 
+Memory,Secret Unit Deployment  
+Auction/Bidding,Set Collection  
+Dice Rolling,Hand Management,Variable Player Powers, 
+  
+Action Point Allowance System,Dice Rolling,Modular Board,Secret Unit Deployment 
+  
+Partnerships  
+Line Drawing,Paper-and-Pencil  
+Action Point Allowance System,Card Drafting  
+Area Enclosure,Tile Placement  
+Card Drafting,Deck / Pool Building,Hand Management, 
+Card Drafting,Hand Management,Route/Network Building,Set Collection 
+Card Drafting,Hand Management,Route/Network Building,Set Collection 
+Card Drafting,Hand Management,Route/Network Building,Set Collection 
+Point to Point Movement,Route/Network Building  
+Card Drafting,Hand Management,Route/Network Building,Set Collection 
+Card Drafting,Hand Management,Route/Network Building,Set Collection 
+Card Drafting,Hand Management,Route/Network Building,Set Collection 
+Hand Management,Set Collection,Tile Placement, 
+Action Point Allowance System,Area Control / Area Influence,Auction/Bidding,Modular Board 
+Hand Management,Modular Board,Route/Network Building,Set Collection 
+Acting,Memory,Partnerships, 
+Acting,Memory,Partnerships, 
+Hand Management,Modular Board,Press Your Luck,Set Collection 
+Roll and Move,Secret Unit Deployment  
+Partnerships  
+Route/Network Building  
+Route/Network Building  
+Dice Rolling,Worker Placement  
+  
+Area Control / Area Influence,Campaign / Battle Card Driven,Dice Rolling,Hand Management 
+  
+Set Collection  
+Area Control / Area Influence,Area Enclosure,Tile Placement, 
+  
+Tile Placement,Variable Phase Order,Worker Placement, 
+Area Movement,Co-operative Play,Dice Rolling, 
+  
+Hand Management,Tile Placement  
+  
+Storytelling,Voting  
+Simulation,Simultaneous Action Selection  
+Betting/Wagering  
+Betting/Wagering,Paper-and-Pencil,Simultaneous Action Selection, 
+Betting/Wagering,Hand Management,Trick-taking, 
+Partnerships  
+Area Control / Area Influence,Partnerships  
+Dice Rolling,Set Collection  
+Pattern Building,Pattern Recognition  
+Pattern Recognition,Set Collection  
+Chit-Pull System,Dice Rolling  
+Hand Management,Set Collection  
+Hand Management,Modular Board,Roll and Move, 
+Set Collection,Tile Placement  
