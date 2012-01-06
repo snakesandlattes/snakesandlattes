@@ -1,7 +1,5 @@
 /*
-Max boardgame object id = 113574.
-http://www.boardgamegeek.com/xmlapi/boardgame/113574
-Starts from 1. We'll crawl all the entries 10 at a time.
+Creates all the necessary batch files for extracting data from the 
 */
 
 function ProcFile(path)
@@ -23,11 +21,12 @@ function ProcFile(path)
 }
 
 
-(function(){
+function getXML(){
   var baseurl="http://www.boardgamegeek.com/xmlapi/boardgame/";
-  var ID=ProcFile("C:\\boardgamegeek\\toprankedIDs.txt");
+  var ID=ProcFile("toprankedIDs.txt");
   for(var i=0;i<ID.length;i++){
     if(isNaN(parseInt(ID[i]))) continue;
     WScript.Echo("curl "+baseurl+ID[i]+" -# -o "+ID[i]+".xml");
   }
-})();
+}
+

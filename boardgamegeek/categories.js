@@ -1,9 +1,3 @@
-/*
-Max boardgame object id = 113574.
-http://www.boardgamegeek.com/xmlapi/boardgame/113574
-Starts from 1. We'll crawl all the entries 10 at a time.
-*/
-
 function ProcFile(path)
 {
     // Return string, do something with f(line N), add it to the return string.

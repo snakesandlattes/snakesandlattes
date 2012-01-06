@@ -27,10 +27,10 @@ function ProcFile(path)
 (function(){
   //var base="xml sel -t -v \"/boardgames/boardgame[@objectid=\'__ID__\']/boardgamepublisher\" top200.xml >> TOPpublishers.txt";
   var file="descriptions.txt"
-  var base="xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__']\" -v \"./description\" top200.xml >>"+file;
-  var ID=ProcFile("C:\\boardgamegeek\\toprankedIDs.txt");
+  var base="xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__']\" -v \"./description\" __ID__.xml >>"+file;
+  var ID=ProcFile("toprankedIDs.txt");
   for(var i=0;i<ID.length;i++){
-    WScript.Echo(base.replace("__ID__",ID[i]));
+    WScript.Echo(base.replace(/__ID__/g,ID[i]));
     WScript.Echo("echo. >> "+file); // delimiter
   }
 })();
