@@ -74,7 +74,7 @@ function getALLRows(currentpath,basename,table) {
   
   var max=0;
   do {
-    if(max && FileSize(basename+".tmp")<=0) break;
+    if(max && FileSize(basename+".tmp")<=8) break;
     DeleteFile(basename+".tmp");
     DeleteFile(basename+".xml");
     DeleteFile(basename+"_.xml");
