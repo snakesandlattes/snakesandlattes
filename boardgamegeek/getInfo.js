@@ -22,25 +22,31 @@ function ReadFile(path) {
   var wsh=WScript.CreateObject("WScript.Shell");
   var files=[
                      //xml = xmlstar commandline query tool
-  ["names.txt",       "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./name[@primary='true']\""],
-  ["images.txt",      "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./image[1]\""],
-  ["types.txt",       "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"concat(./boardgamemechanic[1],',',./boardgamemechanic[2],',',./boardgamemechanic[3],',',./boardgamemechanic[4])\""],
-  ["descriptions.txt","xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./description[1]\""],
-  ["categories.txt",  "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"concat(./boardgamecategory[1],',',./boardgamecategory[2],',',./boardgamecategory[3],',',./boardgamecategory[4])\""]
+//  ["names.txt",       "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./name[@primary='true']\""],
+//  ["images.txt",      "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./image[1]\""],
+//  ["types.txt",       "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"concat(./boardgamemechanic[1],',',./boardgamemechanic[2],',',./boardgamemechanic[3],',',./boardgamemechanic[4])\""],
+//  ["descriptions.txt","xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./description[1]\""],
+  ["age.txt",         "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./age[1]\""],
+  ["minplayers.txt",  "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./minplayers[1]\""],
+  ["maxplayers.txt",  "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./maxplayers[1]\""],
+  ["playingtime.txt", "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./playingtime[1]\""],
+  ["designer.txt",    "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"./boardgamedesigner[1]\""]
+  
+//  ["categories.txt",  "xml sel -n -T -t -m \"/boardgames/boardgame[@objectid='__ID__'][1]\" -v \"concat(./boardgamecategory[1],',',./boardgamecategory[2],',',./boardgamecategory[3],',',./boardgamecategory[4])\""]
   ];
 
   var dbfile="inventoryBGG";
   var currentpath=WScript.ScriptFullName.replace(WScript.ScriptName,"");
-  var ID=ReadFile(currentpath+"toprankedIDs.txt");
+  var ID=ReadFile(currentpath+"IDs.txt");
 
   // Build the boardgame database
   var bigbatchfile=[];  
   for(var i=0;i<ID.length;i++)
     if(!isNaN(parseInt(ID[i])))
-      bigbatchfile.push("curl http://www.boardgamegeek.com/xmlapi/boardgame/"+ID[i]+" >> "+currentpath+dbfile);
+      bigbatchfile.push("curl http://www.boardgamegeek.com/xmlapi/boardgame/"+ID[i]+" >> "+dbfile);
   
-  bigbatchfile.push("fart --c-style "+currentpath+dbfile+" \"</boardgames><boardgames termsofuse=\\\"http://boardgamegeek.com/xmlapi/termsofuse\\\">\" \" \"");
-  WriteFile("crawlInfo.bat",bigbatchfile);
+  bigbatchfile.push("fart --c-style "+dbfile+" \"</boardgames><boardgames termsofuse=\\\"http://boardgamegeek.com/xmlapi/termsofuse\\\">\" \" \"");
+  WriteFile(currentpath+"xml\\crawlInfo.bat",bigbatchfile);
   
   var bigbatchfile=[];  
   for(var i=0;i<files.length;i++) {
@@ -53,6 +59,6 @@ function ReadFile(path) {
     }
   }
   
-  WriteFile("getInfo.bat",bigbatchfile);
+  WriteFile(currentpath+"xml\\getInfo.bat",bigbatchfile);
   
 })();
